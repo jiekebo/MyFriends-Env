@@ -1,0 +1,5 @@
+base:
+  '*':
+    - utils
+    - mongodb
+    - node
